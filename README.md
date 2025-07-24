@@ -26,7 +26,7 @@ ManaTranslator is an open-source, AI-powered web application that allows users t
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ManaTranslator.git
+git clone https://github.com/Duvva-S-N-Kusuma-Haranadh/ManaTranslator.git
 cd ManaTranslator
 ```
 
@@ -41,14 +41,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## ☁️ Deployment on Streamlit Cloud
-
-- Push code to GitHub
-- Go to [https://share.streamlit.io](https://share.streamlit.io)
-- Choose your repo and set the main file as `app.py`
 
 ---
 
@@ -74,10 +66,10 @@ ManaTranslator/
 
 Created by:
 
-- Sandeep Duvva
-- Aarav Reddy
-- Divya Kiran
-- Meghana Rao
+- Duvva S.N.Kusuma Haranadh
+- Ponnamala Jaswanth
+- Chittiboyina Manikanta
+- Matangi Eswar
 
 ---
 
