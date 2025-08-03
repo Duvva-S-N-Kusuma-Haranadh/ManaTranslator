@@ -1,1 +1,10 @@
-
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-azuretools.vscode-docker",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "charliermarsh.ruff"
+  ]
+}
