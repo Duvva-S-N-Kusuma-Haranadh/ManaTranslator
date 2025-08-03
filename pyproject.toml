@@ -1,1 +1,29 @@
+[project]
+name = "manatranslator"
+version = "0.1.0"
+description = "An AI-powered Streamlit app that translates text from any language to Telugu, contributing to multilingual corpus collection."
+authors = [
+  { name = ["Duvva S.N.Kusuma Haranadh", "Ponnmala Jaswanth", "Chittiboyina Manikanata", "Matangi Eswar"], email = "kusumaharnath2005@gmail.com" }
+]
+license = "GNU AGPLv3"
+readme = "README.md"
+require-python = ">=3.8"
+
+[project.urls]
+app = "https://huggingface.co/spaces/KusumaHaranadh/ManaTranslator"
+repository = "https://github.com/Duvva-S-N-Kusuma-Haranadh/ManaTranslator"
+
+[tools.setuptools]
+pakages = ["manatranslator"]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+streamlit = "^1.35.0"
+gooletrans = "^4.0.0-rcl"
+pandas = "^2.2.0"
+langdetect = "^1.0.9"
 
